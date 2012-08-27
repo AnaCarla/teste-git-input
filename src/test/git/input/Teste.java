@@ -20,7 +20,7 @@ public class Teste {
 		}
 		public void ImprimiTeste(){
 			
-			System.out.println("Teste 1\n");
+			System.out.println("\t\t\tTeste\t\t\t\n");
 			System.out.println("Aluno: " + codigo_aluno);
 			System.out.println("Pergunta 1: "+ resposta);
 			System.out.println("Nota: " + nota);
